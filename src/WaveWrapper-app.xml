@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/2.0beta2">
+	<id>com.christiancantrell.wavewrapper</id>
+	<filename>WaveWrapper</filename>
+	<name>WaveWrapper</name>
+	<version>1.0</version>
+	<description>Use Google Wave on your dekstop.</description>
+
+	<copyright>2009 Cantrell Media Company</copyright>
+
+	<initialWindow>
+		<content>[This value will be overwritten by Flash Builder in the output app.xml]</content>
+		<title>WaveWrapper</title>
+		<!-- <systemChrome></systemChrome> -->
+		<!-- <transparent></transparent> -->
+		<visible>true</visible>
+		<!-- <minimizable></minimizable> -->
+		<!-- <maximizable></maximizable> -->
+		<!-- <resizable></resizable> -->
+		<!-- <width></width> -->
+		<!-- <height></height> -->
+		<!-- <x></x> -->
+		<!-- <y></y> -->
+		<!-- <minSize></minSize> -->
+		<!-- <maxSize></maxSize> -->
+	</initialWindow>
+
+	<icon>
+		<image16x16>assets/wave_16x16.png</image16x16>
+		<image32x32>assets/wave_32x32.png</image32x32>
+		<image48x48>assets/wave_48x48.png</image48x48>
+		<image128x128>assets/wave_128x128.png</image128x128>
+	</icon>
+
+</application>
